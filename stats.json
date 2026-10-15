@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T18:26:50-04:00",
- "total_correct": 76,
- "player_count": 32,
+ "updated": "2026-10-15T18:32:09-04:00",
+ "total_correct": 77,
+ "player_count": 33,
  "players": [
   {
    "name": "JMJ",
@@ -85,6 +85,11 @@
   },
   {
    "name": "9livesgam1ing",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "Alucard420",
    "platform": "tiktok",
    "correct": 1
   },
