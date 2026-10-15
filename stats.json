@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T17:47:13-04:00",
- "total_correct": 73,
- "player_count": 30,
+ "updated": "2026-10-15T18:05:52-04:00",
+ "total_correct": 75,
+ "player_count": 31,
  "players": [
   {
    "name": "JMJ",
@@ -11,7 +11,7 @@
   {
    "name": "Nicky",
    "platform": "tiktok",
-   "correct": 7
+   "correct": 8
   },
   {
    "name": "shedmanstu",
@@ -125,6 +125,11 @@
   },
   {
    "name": "rickybilby",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "stormshadow\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc51",
    "platform": "tiktok",
    "correct": 1
   },
