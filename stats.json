@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T16:34:19-04:00",
- "total_correct": 68,
- "player_count": 28,
+ "updated": "2026-10-15T16:42:25-04:00",
+ "total_correct": 72,
+ "player_count": 30,
  "players": [
   {
    "name": "jdelaware0123",
@@ -9,9 +9,9 @@
    "correct": 8
   },
   {
-   "name": "19nickynicky88",
+   "name": "Nicky",
    "platform": "tiktok",
-   "correct": 6
+   "correct": 7
   },
   {
    "name": "shedmanstu",
@@ -22,6 +22,11 @@
    "name": "xbourbonmeupx",
    "platform": "tiktok",
    "correct": 5
+  },
+  {
+   "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
+   "platform": "tiktok",
+   "correct": 4
   },
   {
    "name": "ryuk0291",
@@ -36,11 +41,6 @@
   {
    "name": "austinsquatch",
    "platform": "twitch",
-   "correct": 3
-  },
-  {
-   "name": "hutch_755",
-   "platform": "tiktok",
    "correct": 3
   },
   {
@@ -119,12 +119,22 @@
    "correct": 1
   },
   {
+   "name": "Mike Haggitt",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
    "name": "rickybilby",
    "platform": "tiktok",
    "correct": 1
   },
   {
    "name": "tamadrion",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "TC",
    "platform": "tiktok",
    "correct": 1
   },
