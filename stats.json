@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15T16:01:22-04:00",
- "total_correct": 66,
+ "updated": "2026-10-15T16:34:19-04:00",
+ "total_correct": 68,
  "player_count": 28,
  "players": [
   {
@@ -64,7 +64,17 @@
    "correct": 2
   },
   {
+   "name": "Dozer1972",
+   "platform": "tiktok",
+   "correct": 2
+  },
+  {
    "name": "itsmelius",
+   "platform": "tiktok",
+   "correct": 2
+  },
+  {
+   "name": "MeAndMine",
    "platform": "tiktok",
    "correct": 2
   },
@@ -109,17 +119,7 @@
    "correct": 1
   },
   {
-   "name": "meandmine0076",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
    "name": "rickybilby",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "robertlikes1",
    "platform": "tiktok",
    "correct": 1
   },
