@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T18:27:39-04:00",
- "total_correct": 93,
- "player_count": 35,
+ "updated": "2026-10-20T18:31:02-04:00",
+ "total_correct": 95,
+ "player_count": 37,
  "players": [
   {
    "name": "Nicky",
@@ -109,6 +109,11 @@
    "correct": 1
   },
   {
+   "name": "BrandonChilders27",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
    "name": "camsikes",
    "platform": "tiktok",
    "correct": 1
@@ -135,6 +140,11 @@
   },
   {
    "name": "jimrn87",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "Joe",
    "platform": "tiktok",
    "correct": 1
   },
