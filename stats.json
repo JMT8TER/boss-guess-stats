@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T17:27:52-04:00",
- "total_correct": 89,
- "player_count": 34,
+ "updated": "2026-10-20T17:42:22-04:00",
+ "total_correct": 90,
+ "player_count": 35,
  "players": [
   {
    "name": "shedmanstu",
@@ -95,6 +95,11 @@
   },
   {
    "name": "Alucard420",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "Andie J 88",
    "platform": "tiktok",
    "correct": 1
   },
