@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T15:58:40-04:00",
- "total_correct": 80,
+ "updated": "2026-10-20T16:30:10-04:00",
+ "total_correct": 81,
  "player_count": 33,
  "players": [
   {
@@ -29,6 +29,11 @@
    "correct": 4
   },
   {
+   "name": "Mark castillo",
+   "platform": "tiktok",
+   "correct": 4
+  },
+  {
    "name": "ryuk0291",
    "platform": "tiktok",
    "correct": 4
@@ -45,11 +50,6 @@
   },
   {
    "name": "josh.beasley3",
-   "platform": "tiktok",
-   "correct": 3
-  },
-  {
-   "name": "rocket5417",
    "platform": "tiktok",
    "correct": 3
   },
