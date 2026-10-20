@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T17:11:16-04:00",
- "total_correct": 87,
+ "updated": "2026-10-20T17:18:02-04:00",
+ "total_correct": 88,
  "player_count": 34,
  "players": [
   {
@@ -49,6 +49,11 @@
    "correct": 3
   },
   {
+   "name": "Diego Gonzalez",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "josh.beasley3",
    "platform": "tiktok",
    "correct": 3
@@ -60,11 +65,6 @@
   },
   {
    "name": "chadhamden665",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "diegogonzalez2109",
    "platform": "tiktok",
    "correct": 2
   },
