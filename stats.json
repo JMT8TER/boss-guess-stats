@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T17:42:22-04:00",
- "total_correct": 90,
+ "updated": "2026-10-20T18:05:15-04:00",
+ "total_correct": 91,
  "player_count": 35,
  "players": [
   {
@@ -54,6 +54,11 @@
    "correct": 3
   },
   {
+   "name": "JimiSleevz",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "josh.beasley3",
    "platform": "tiktok",
    "correct": 3
@@ -75,11 +80,6 @@
   },
   {
    "name": "itsmelius",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "JimiSleevz",
    "platform": "tiktok",
    "correct": 2
   },
