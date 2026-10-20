@@ -1,8 +1,13 @@
 {
- "updated": "2026-10-20T16:57:56-04:00",
- "total_correct": 85,
+ "updated": "2026-10-20T17:11:16-04:00",
+ "total_correct": 87,
  "player_count": 34,
  "players": [
+  {
+   "name": "shedmanstu",
+   "platform": "tiktok",
+   "correct": 10
+  },
   {
    "name": "JMJ",
    "platform": "tiktok",
@@ -14,14 +19,9 @@
    "correct": 9
   },
   {
-   "name": "shedmanstu",
+   "name": "xBourbonMeUpx",
    "platform": "tiktok",
-   "correct": 9
-  },
-  {
-   "name": "xbourbonmeupx",
-   "platform": "tiktok",
-   "correct": 5
+   "correct": 6
   },
   {
    "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
