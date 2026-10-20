@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T16:36:45-04:00",
- "total_correct": 81,
- "player_count": 33,
+ "updated": "2026-10-20T16:46:26-04:00",
+ "total_correct": 84,
+ "player_count": 34,
  "players": [
   {
    "name": "JMJ",
@@ -16,7 +16,7 @@
   {
    "name": "shedmanstu",
    "platform": "tiktok",
-   "correct": 7
+   "correct": 8
   },
   {
    "name": "xbourbonmeupx",
@@ -54,6 +54,11 @@
    "correct": 3
   },
   {
+   "name": "MeAndMine",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "chadhamden665",
    "platform": "tiktok",
    "correct": 2
@@ -70,11 +75,6 @@
   },
   {
    "name": "itsmelius",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "MeAndMine",
    "platform": "tiktok",
    "correct": 2
   },
@@ -120,6 +120,11 @@
   },
   {
    "name": "hossleostros",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "JimiSleevz",
    "platform": "tiktok",
    "correct": 1
   },
