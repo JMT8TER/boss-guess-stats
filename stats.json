@@ -1,8 +1,13 @@
 {
- "updated": "2026-10-20T18:21:31-04:00",
- "total_correct": 92,
+ "updated": "2026-10-20T18:27:39-04:00",
+ "total_correct": 93,
  "player_count": 35,
  "players": [
+  {
+   "name": "Nicky",
+   "platform": "tiktok",
+   "correct": 10
+  },
   {
    "name": "shedmanstu",
    "platform": "tiktok",
@@ -10,11 +15,6 @@
   },
   {
    "name": "JMJ",
-   "platform": "tiktok",
-   "correct": 9
-  },
-  {
-   "name": "Nicky",
    "platform": "tiktok",
    "correct": 9
   },
