@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T17:57:42-05:00",
- "total_correct": 95,
+ "updated": "2026-11-04T18:04:20-05:00",
+ "total_correct": 97,
  "player_count": 37,
  "players": [
   {
@@ -29,6 +29,11 @@
    "correct": 5
   },
   {
+   "name": "austinsquatch",
+   "platform": "twitch",
+   "correct": 4
+  },
+  {
    "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
    "platform": "tiktok",
    "correct": 4
@@ -42,11 +47,6 @@
    "name": "stephiezcreations",
    "platform": "tiktok",
    "correct": 4
-  },
-  {
-   "name": "austinsquatch",
-   "platform": "twitch",
-   "correct": 3
   },
   {
    "name": "Diego Gonzalez",
@@ -85,6 +85,11 @@
   },
   {
    "name": "shawnjones4153",
+   "platform": "tiktok",
+   "correct": 2
+  },
+  {
+   "name": "stormshadow\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc51",
    "platform": "tiktok",
    "correct": 2
   },
@@ -155,11 +160,6 @@
   },
   {
    "name": "rickybilby",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "stormshadow\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc51",
    "platform": "tiktok",
    "correct": 1
   },
