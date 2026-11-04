@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T18:52:46-05:00",
- "total_correct": 100,
+ "updated": "2026-11-04T18:57:07-05:00",
+ "total_correct": 101,
  "player_count": 38,
  "players": [
   {
@@ -49,6 +49,11 @@
    "correct": 4
   },
   {
+   "name": "cosmotwix",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "Diego Gonzalez",
    "platform": "tiktok",
    "correct": 3
@@ -70,11 +75,6 @@
   },
   {
    "name": "chadhamden665",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "cosmotwix",
    "platform": "tiktok",
    "correct": 2
   },
