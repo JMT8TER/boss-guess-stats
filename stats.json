@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T19:23:51-05:00",
- "total_correct": 102,
+ "updated": "2026-11-04T19:40:37-05:00",
+ "total_correct": 103,
  "player_count": 39,
  "players": [
   {
@@ -19,14 +19,14 @@
    "correct": 9
   },
   {
-   "name": "xBourbonMeUpx",
-   "platform": "tiktok",
+   "name": "austinsquatch",
+   "platform": "twitch",
    "correct": 6
   },
   {
-   "name": "austinsquatch",
-   "platform": "twitch",
-   "correct": 5
+   "name": "xBourbonMeUpx",
+   "platform": "tiktok",
+   "correct": 6
   },
   {
    "name": "Mark castillo",
