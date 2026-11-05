@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T18:57:07-05:00",
- "total_correct": 101,
- "player_count": 38,
+ "updated": "2026-11-04T19:04:14-05:00",
+ "total_correct": 102,
+ "player_count": 39,
  "players": [
   {
    "name": "Nicky",
@@ -190,6 +190,11 @@
   },
   {
    "name": "tiiiimmmaay",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "Tommy Twos",
    "platform": "tiktok",
    "correct": 1
   }
