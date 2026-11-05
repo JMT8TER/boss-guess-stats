@@ -1,8 +1,13 @@
 {
- "updated": "2026-11-04T19:46:41-05:00",
- "total_correct": 103,
+ "updated": "2026-11-04T19:49:19-05:00",
+ "total_correct": 105,
  "player_count": 39,
  "players": [
+  {
+   "name": "JMJ",
+   "platform": "tiktok",
+   "correct": 10
+  },
   {
    "name": "Nicky",
    "platform": "tiktok",
@@ -14,18 +19,13 @@
    "correct": 10
   },
   {
-   "name": "JMJ",
+   "name": "xBourbonMeUpx",
    "platform": "tiktok",
-   "correct": 9
+   "correct": 7
   },
   {
    "name": "austinsquatch",
    "platform": "twitch",
-   "correct": 6
-  },
-  {
-   "name": "xBourbonMeUpx",
-   "platform": "tiktok",
    "correct": 6
   },
   {
