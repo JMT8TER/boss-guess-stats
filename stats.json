@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T18:50:12-05:00",
- "total_correct": 109,
+ "updated": "2026-11-05T19:10:28-05:00",
+ "total_correct": 110,
  "player_count": 40,
  "players": [
   {
@@ -74,6 +74,11 @@
    "correct": 3
   },
   {
+   "name": "Tommy Twos",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "chadhamden665",
    "platform": "tiktok",
    "correct": 2
@@ -100,11 +105,6 @@
   },
   {
    "name": "stormshadow\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc51",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "Tommy Twos",
    "platform": "tiktok",
    "correct": 2
   },
