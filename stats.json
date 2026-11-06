@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T19:10:28-05:00",
- "total_correct": 110,
- "player_count": 40,
+ "updated": "2026-11-05T19:26:47-05:00",
+ "total_correct": 111,
+ "player_count": 41,
  "players": [
   {
    "name": "shedmanstu",
@@ -125,6 +125,11 @@
   },
   {
    "name": "baka8195",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "belkins90",
    "platform": "tiktok",
    "correct": 1
   },
