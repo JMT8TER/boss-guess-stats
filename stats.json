@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T19:04:07-05:00",
- "total_correct": 124,
+ "updated": "2026-11-08T19:11:43-05:00",
+ "total_correct": 126,
  "player_count": 41,
  "players": [
   {
-   "name": "shedmanstu",
+   "name": "Nicky",
    "platform": "tiktok",
    "correct": 12
   },
   {
-   "name": "Nicky",
+   "name": "shedmanstu",
    "platform": "tiktok",
-   "correct": 11
+   "correct": 12
   },
   {
    "name": "JMJ",
@@ -99,6 +99,11 @@
    "correct": 2
   },
   {
+   "name": "charlesgrates",
+   "platform": "tiktok",
+   "correct": 2
+  },
+  {
    "name": "Dozer1972",
    "platform": "tiktok",
    "correct": 2
@@ -140,11 +145,6 @@
   },
   {
    "name": "camsikes",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "charlesgrates",
    "platform": "tiktok",
    "correct": 1
   },
