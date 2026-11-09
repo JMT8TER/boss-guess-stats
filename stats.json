@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T18:58:35-05:00",
- "total_correct": 122,
+ "updated": "2026-11-08T19:04:07-05:00",
+ "total_correct": 124,
  "player_count": 41,
  "players": [
   {
-   "name": "Nicky",
+   "name": "shedmanstu",
    "platform": "tiktok",
-   "correct": 11
+   "correct": 12
   },
   {
-   "name": "shedmanstu",
+   "name": "Nicky",
    "platform": "tiktok",
    "correct": 11
   },
@@ -64,6 +64,11 @@
    "correct": 4
   },
   {
+   "name": "9LivesGam1ng",
+   "platform": "tiktok",
+   "correct": 3
+  },
+  {
    "name": "cosmotwix",
    "platform": "tiktok",
    "correct": 3
@@ -87,11 +92,6 @@
    "name": "MeAndMine",
    "platform": "tiktok",
    "correct": 3
-  },
-  {
-   "name": "9LivesGam1ng",
-   "platform": "tiktok",
-   "correct": 2
   },
   {
    "name": "chadhamden665",
