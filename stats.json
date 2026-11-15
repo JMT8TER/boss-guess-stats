@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T14:04:22-05:00",
- "total_correct": 131,
- "player_count": 42,
+ "updated": "2026-11-15T14:09:12-05:00",
+ "total_correct": 132,
+ "player_count": 43,
  "players": [
   {
    "name": "shedmanstu",
@@ -210,6 +210,11 @@
   },
   {
    "name": "tiiiimmmaay",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "yeeters4life",
    "platform": "tiktok",
    "correct": 1
   }
