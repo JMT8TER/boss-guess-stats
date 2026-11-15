@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T12:59:36-05:00",
- "total_correct": 130,
- "player_count": 41,
+ "updated": "2026-11-15T13:03:37-05:00",
+ "total_correct": 131,
+ "player_count": 42,
  "players": [
   {
    "name": "shedmanstu",
@@ -145,6 +145,11 @@
   },
   {
    "name": "camsikes",
+   "platform": "tiktok",
+   "correct": 1
+  },
+  {
+   "name": "charlesbutts717",
    "platform": "tiktok",
    "correct": 1
   },
