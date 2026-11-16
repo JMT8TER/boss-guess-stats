@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:39:41-05:00",
- "total_correct": 137,
+ "updated": "2026-11-16T18:53:37-05:00",
+ "total_correct": 139,
  "player_count": 43,
  "players": [
   {
@@ -19,22 +19,22 @@
    "correct": 13
   },
   {
+   "name": "austinsquatch",
+   "platform": "twitch",
+   "correct": 7
+  },
+  {
    "name": "xBourbonMeUpx",
    "platform": "tiktok",
    "correct": 7
   },
   {
-   "name": "austinsquatch",
-   "platform": "twitch",
+   "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
+   "platform": "tiktok",
    "correct": 6
   },
   {
    "name": "belkins90",
-   "platform": "tiktok",
-   "correct": 5
-  },
-  {
-   "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
    "platform": "tiktok",
    "correct": 5
   },
