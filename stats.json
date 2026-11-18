@@ -1,227 +1,716 @@
 {
- "updated": "2026-11-16T20:02:41-05:00",
+ "updated": "2026-11-18T18:05:31-05:00",
  "total_correct": 143,
- "player_count": 44,
+ "total_guesses": 1084,
+ "percent": 13,
+ "player_count": 101,
  "players": [
   {
    "name": "JMJ",
    "platform": "tiktok",
-   "correct": 15
+   "correct": 15,
+   "guesses": 129,
+   "percent": 12
   },
   {
    "name": "Nicky",
    "platform": "tiktok",
-   "correct": 13
+   "correct": 13,
+   "guesses": 88,
+   "percent": 15
   },
   {
    "name": "shedmanstu",
    "platform": "tiktok",
-   "correct": 13
-  },
-  {
-   "name": "austinsquatch",
-   "platform": "twitch",
-   "correct": 7
+   "correct": 13,
+   "guesses": 110,
+   "percent": 12
   },
   {
    "name": "xBourbonMeUpx",
    "platform": "tiktok",
-   "correct": 7
+   "correct": 7,
+   "guesses": 36,
+   "percent": 19
+  },
+  {
+   "name": "austinsquatch",
+   "platform": "twitch",
+   "correct": 7,
+   "guesses": 51,
+   "percent": 14
   },
   {
    "name": "Hutch \ud83c\uddfa\ud83c\uddf8 \ufe3b\u30c7\u2550\u4e00",
    "platform": "tiktok",
-   "correct": 6
+   "correct": 6,
+   "guesses": 37,
+   "percent": 16
   },
   {
    "name": "belkins90",
    "platform": "tiktok",
-   "correct": 5
-  },
-  {
-   "name": "Mark castillo",
-   "platform": "tiktok",
-   "correct": 5
+   "correct": 5,
+   "guesses": 24,
+   "percent": 21
   },
   {
    "name": "Tommy Twos",
    "platform": "tiktok",
-   "correct": 5
+   "correct": 5,
+   "guesses": 25,
+   "percent": 20
+  },
+  {
+   "name": "Mark castillo",
+   "platform": "tiktok",
+   "correct": 5,
+   "guesses": 38,
+   "percent": 13
+  },
+  {
+   "name": "StephiezCreations",
+   "platform": "tiktok",
+   "correct": 4,
+   "guesses": 16,
+   "percent": 25
   },
   {
    "name": "cosmotwix",
    "platform": "tiktok",
-   "correct": 4
-  },
-  {
-   "name": "Diego Gonzalez",
-   "platform": "tiktok",
-   "correct": 4
-  },
-  {
-   "name": "JimiSleevz",
-   "platform": "tiktok",
-   "correct": 4
+   "correct": 4,
+   "guesses": 17,
+   "percent": 24
   },
   {
    "name": "ryuk0291",
    "platform": "tiktok",
-   "correct": 4
+   "correct": 4,
+   "guesses": 19,
+   "percent": 21
   },
   {
-   "name": "stephiezcreations",
+   "name": "Diego Gonzalez",
    "platform": "tiktok",
-   "correct": 4
+   "correct": 4,
+   "guesses": 20,
+   "percent": 20
+  },
+  {
+   "name": "JimiSleevz",
+   "platform": "tiktok",
+   "correct": 4,
+   "guesses": 27,
+   "percent": 15
   },
   {
    "name": "stormshadow\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc51",
    "platform": "tiktok",
-   "correct": 4
+   "correct": 4,
+   "guesses": 28,
+   "percent": 14
   },
   {
    "name": "9LivesGam1ng",
    "platform": "tiktok",
-   "correct": 3
-  },
-  {
-   "name": "josh.beasley3",
-   "platform": "tiktok",
-   "correct": 3
+   "correct": 3,
+   "guesses": 12,
+   "percent": 25
   },
   {
    "name": "MeAndMine",
    "platform": "tiktok",
-   "correct": 3
+   "correct": 3,
+   "guesses": 21,
+   "percent": 14
   },
   {
-   "name": "chadhamden665",
+   "name": "Josh Beasley",
    "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "charlesgrates",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "Dozer1972",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "itsmelius",
-   "platform": "tiktok",
-   "correct": 2
-  },
-  {
-   "name": "L@cutus420",
-   "platform": "tiktok",
-   "correct": 2
+   "correct": 3,
+   "guesses": 27,
+   "percent": 11
   },
   {
    "name": "Mike Haggitt",
    "platform": "tiktok",
-   "correct": 2
+   "correct": 2,
+   "guesses": 7,
+   "percent": 29
+  },
+  {
+   "name": "chadhamden665",
+   "platform": "tiktok",
+   "correct": 2,
+   "guesses": 8,
+   "percent": 25
+  },
+  {
+   "name": "Dozer1972",
+   "platform": "tiktok",
+   "correct": 2,
+   "guesses": 11,
+   "percent": 18
   },
   {
    "name": "shawnjones4153",
    "platform": "tiktok",
-   "correct": 2
+   "correct": 2,
+   "guesses": 12,
+   "percent": 17
   },
   {
    "name": "yeeters4life",
    "platform": "tiktok",
-   "correct": 2
+   "correct": 2,
+   "guesses": 13,
+   "percent": 15
   },
   {
-   "name": "Andie J 88",
+   "name": "\u2605It's Mel\u2605",
    "platform": "tiktok",
-   "correct": 1
+   "correct": 2,
+   "guesses": 27,
+   "percent": 7
   },
   {
-   "name": "baka8195",
+   "name": "charlesgrates",
    "platform": "tiktok",
-   "correct": 1
+   "correct": 2,
+   "guesses": 33,
+   "percent": 6
   },
   {
-   "name": "BrandonChilders27",
+   "name": "L@cutus420",
    "platform": "tiktok",
-   "correct": 1
+   "correct": 2,
+   "guesses": 31,
+   "percent": 6
   },
   {
    "name": "camsikes",
    "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "charlesbutts717",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "chrisoliver782",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "Chronos Ice Breaks",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "David D.",
-   "platform": "tiktok",
-   "correct": 1
+   "correct": 1,
+   "guesses": 1,
+   "percent": 100
   },
   {
    "name": "gumby.oo7",
    "platform": "tiktok",
-   "correct": 1
+   "correct": 1,
+   "guesses": 1,
+   "percent": 100
   },
   {
    "name": "hossleostros",
    "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "jimrn87",
-   "platform": "tiktok",
-   "correct": 1
+   "correct": 1,
+   "guesses": 1,
+   "percent": 100
   },
   {
    "name": "Joe",
    "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "rickybilby",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "tamadrion",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "TC",
-   "platform": "tiktok",
-   "correct": 1
-  },
-  {
-   "name": "tc_mi_up",
-   "platform": "tiktok",
-   "correct": 1
+   "correct": 1,
+   "guesses": 2,
+   "percent": 50
   },
   {
    "name": "thebigredstar91",
    "platform": "twitch",
-   "correct": 1
+   "correct": 1,
+   "guesses": 2,
+   "percent": 50
   },
   {
    "name": "tiiiimmmaay",
    "platform": "tiktok",
-   "correct": 1
+   "correct": 1,
+   "guesses": 3,
+   "percent": 33
+  },
+  {
+   "name": "tamadrion",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 4,
+   "percent": 25
+  },
+  {
+   "name": "baka",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 5,
+   "percent": 20
+  },
+  {
+   "name": "Chronos Ice Breaks",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 5,
+   "percent": 20
+  },
+  {
+   "name": "TC",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 5,
+   "percent": 20
+  },
+  {
+   "name": "charlesbutts717",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 6,
+   "percent": 17
+  },
+  {
+   "name": "David D.",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 6,
+   "percent": 17
+  },
+  {
+   "name": "TC_MI_UP",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 6,
+   "percent": 17
+  },
+  {
+   "name": "rickybilby",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 7,
+   "percent": 14
+  },
+  {
+   "name": "Andie J 88",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 8,
+   "percent": 12
+  },
+  {
+   "name": "Jim87",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 8,
+   "percent": 12
+  },
+  {
+   "name": "Chris Oliver782",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 10,
+   "percent": 10
+  },
+  {
+   "name": "BrandonChilders27",
+   "platform": "tiktok",
+   "correct": 1,
+   "guesses": 19,
+   "percent": 5
+  },
+  {
+   "name": "A-A-Ron the second coming",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "aaron.bourgeois",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "aaronrowellgaming",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "AceTec",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 7,
+   "percent": 0
+  },
+  {
+   "name": "ahall374",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Aninjamongoos",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 5,
+   "percent": 0
+  },
+  {
+   "name": "Anthony",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "ashleyrichelle86",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "austrogadse",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "bazookajoe321",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "bigmikem614",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "brianrowntree1",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Candace Grant",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 4,
+   "percent": 0
+  },
+  {
+   "name": "Cautiously_Optimistic09",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "chronicallyanxious93",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 9,
+   "percent": 0
+  },
+  {
+   "name": "darth_t8ter",
+   "platform": "twitch",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Dirtyferg",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 7,
+   "percent": 0
+  },
+  {
+   "name": "djct1976",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "edwinboucher",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Foolproof",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "fragilegamer28",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "gingerjesusralph",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "huge_crank_hank",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "iwishiwasdumber",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "Jayzon Zane",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "jcobbus2022",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "jedi_master_t8ter",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "jenaflower4023",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Jeremy Kujak",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "jexxe21",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "johnjackson541",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Joshua",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "kevinknipple",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "lauren_ashley35",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "lena_countrygirl",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Lord Tyrus",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "LordHoell",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "mamat8ter",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Mandy",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "max2dgam1ng",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "megaflare0",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "mrantz85",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "purple.hearted.jessica",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Queendixins big tip",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
+  },
+  {
+   "name": "Quirky Hawaiian",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Ragnar88",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 3,
+   "percent": 0
+  },
+  {
+   "name": "red.bishop",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "rob_dalawang_ulo",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "rroyal75",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 4,
+   "percent": 0
+  },
+  {
+   "name": "satoshi1989",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "sexyoutlaw0",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "Shammy",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "solsen1983",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 5,
+   "percent": 0
+  },
+  {
+   "name": "some_guy_name_dan",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "stephanielancaster90",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "truenorsecowboy",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 1,
+   "percent": 0
+  },
+  {
+   "name": "viperstealth007",
+   "platform": "tiktok",
+   "correct": 0,
+   "guesses": 2,
+   "percent": 0
   }
  ]
 }
